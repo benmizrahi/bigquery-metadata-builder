@@ -21,3 +21,6 @@
 go.work
 go.work.sum
 .env
+
+google-cloud-sdk
+volumes
